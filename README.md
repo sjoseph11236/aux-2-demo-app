@@ -1,3 +1,3 @@
-# Ponder 2.0 Demo
+# Ponder 2.0 Demo App
 
 

@@ -1,0 +1,12 @@
+node_modules
+dist
+
+
+# IDE
+.idea
+
+# Test output
+coverage
+junit.xml
+
+.DS_Store

@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+package.json
+package-lock.json
+tsconfig.json
+
+# Production
+dist/
+
+# Testing
+coverage/
+
+# IDE
+.idea/
